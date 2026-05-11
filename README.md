@@ -200,6 +200,3 @@ Through this project, I learned:
 
 ---
 
-# ⭐ Support
-
-If you found this project useful, give this repository a ⭐ on GitHub.
