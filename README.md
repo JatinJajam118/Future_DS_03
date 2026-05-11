@@ -149,8 +149,8 @@ Used for:
 │
 ├── 📄 README.md
 ├── 📄 funnel_analysis.ipynb
-├── 📄 dashboard.pbix
-├── 📄 dataset.csv
+├── 📄 FunnelAnalysis_Dashboard.pbix
+├── 📄 cleaned_marketing_funnel.csv
 ├── 📷 FunnelAnalysis_dashboard.png
 ```
 
